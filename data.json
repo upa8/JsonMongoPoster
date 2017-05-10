@@ -1,0 +1,26 @@
+{
+  "data":[
+    {
+      "updatedAt" : "2017-04-26T17:48:37.032Z",
+      "createdAt" : "2017-04-26T17:48:37.032Z",
+      "url" : "https://techbeacon.com/50-tips-improving-your-software-development-game",
+      "title" : "50 tips for improving your software development game",
+      "description" : "Was reading about how to improve as a software developer, and found this interesting blog.<br>If you have questions like <br> *) What to do after learning basics of language? <br> *) Should we spend time on refactoring, testing? If yes then how much? <br> *) When it is ok to reinvent the wheel and when it is not? <br> *) How to deal with bad code? <br> Then read the following blog. It is a good resource to become better developer than yesterday. <br>Here is the link ",
+      "tags" : [
+        "programming"
+      ],
+      "postedBy" : {
+        "anonymous" : true,
+        "name" : "",
+        "email" : "",
+        "profileUrl" : ""
+      },
+      "postStatus" : {
+        "approved" : false,
+        "posted" : false,
+        "deleted" : false,
+        "declined" : false
+      }
+    }
+  ]
+}
